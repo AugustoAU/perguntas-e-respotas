@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url("/img/camaleão.jpg")
+}
+
+.corpo{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 25%;
+    margin: 5% 0% 0% 40%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.corpo .pergunta .resposta{
+    margin: 10px 0px 5px 10px;
+    font-size: 1.5rem;
+    color:rgb(53, 53, 53);
+}
+
+.corpo .title h2{
+    color:black;
+    font-size: 1.6rem;
+    margin-left: 10px;
+}
+
+
